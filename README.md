@@ -24,9 +24,9 @@ Welcome to my Power BI showcase repository. This space contains a collection of 
 
 ---
 
-##  Technical Competency Highlight
+##  Technical Highlight
 *   **Data Transformation:** Power Query, M-code, data cleansing, and star schema modeling.
 *   **Calculations & Modeling:** Custom DAX measures, time-intelligence functions, and calculated columns.
-*   **Design Philosophy:** Clean visual hierarchies, logical left-to-right reading layouts, and high-impact KPI summaries with intentional conditional formatting.
+*   **Design:** Clean visual hierarchies, and high-impact KPI summaries with intentional conditional formatting.
 
 ---
